@@ -11,6 +11,6 @@ root.render(
     <h1>Weather App</h1>
     <App />
     <br />
-    <a href="">GitHub</a>
+    <a href="https://github.com/Katerynkok/weather-app-react">GitHub</a>
   </StrictMode>
 );
